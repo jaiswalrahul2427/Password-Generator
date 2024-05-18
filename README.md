@@ -34,6 +34,8 @@ To run this application locally:
 - **useRef:** React hook for accessing and manipulating DOM elements.
 - **CSS:** Styling for the user interface.
 
+### Live Link: 
+https://passwordcopy.netlify.app/
 ### Contributing:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
